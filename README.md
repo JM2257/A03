@@ -1,9 +1,20 @@
 # A03
 
-Document your knowledge of Git, WebStorm, and GitHub by creating a step by step tutorial in your readme file. You need to make a tutorial that you could give to someone else that describes the process of how to use Git and Github. You outside resources as well as my PowerPoint presentations. Cite all references and put the Reference list at the end of the document.
-
 PART 1: Directions on Using Webstorm.
-Add a step by step set of directions. Include URLs of any downloaded software. 
+1. Download the latest Git from the link: https://git-scm.com/downloads.
+2. Find the file on your pc and install it.
+3. Download Webstorm, then open it using the link: https://www.jetbrains.com/webstorm/download/#section=mac.
+4. In Webstorm, check and install updates by clicking Help, then clicking check for Updates.
+5. Display the Webstorm settings by pressing (Ctrl+Alt+S) then choose Version Control and finanlly click on Git from the left side.
+6. Click test to make sure Git is connected to GitHub. Then click ok to exit.
+7. Press Create new Project ont the main page of Webstorm
+8. Choose a location and give the project a name. Click Create.
+9. Create a new file and make changes to it.
+10. Click Version Control System then click Import into Version Control finally click on Create Git Repository.
+11. Click Ok, then Commit the changes to GIT then Version Control System the Git then Commit File.
+12. Click Commit.
+13. Add the project to GITHUB, Click Version Control System then Import into Version Control then Share Project on Github
+14. Now it is uploaded, repeat 11-13 to make updates
 
 Part 2:
 - **Branch** A seperate working copy of the master git repository, used when adding features to the master branch without interfering with other colaborators local versions.
@@ -21,5 +32,4 @@ Part 2:
  
 References: 
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 https://www.sbf5.com/~cduan/technical/git/git-1.shtml
